@@ -1,0 +1,158 @@
+input[type=search]{
+	height: 30px;
+    width: 200px;
+    background: #CCC;
+    color: orangered;
+    float:right; 
+    margin-top: 30px;
+    margin-right: -70px;
+}
+.titulo{
+	margin: 10px;
+	padding: 3px;
+	width: 100%;
+}
+.titulo img{
+	float: left;
+	margin-left: -190px;
+}
+.text-gray p{
+	font-size: 14px;
+	margin-top: 35px;
+	display: inline-block;
+	margin-left: 80px;
+}
+.banner img{
+	float: left;
+	margin-left: -220px;
+	margin-top: -20px;
+}
+h2{
+	color: #D9D5D5;
+	font-size: 24px;
+	margin: 5px;
+}
+input[type=text]{
+	color:#05B201;
+	background-color:transparent;
+	border: 1px solid #05B201;
+	text-align: center;
+	font-size: 16px;
+	margin: 5px;
+	padding: 5px;
+	width: 80px;
+	border-radius: 5px;
+}
+.hero p{
+	color:#fff;
+	text-align: justify;
+	font-size: 16px;
+	display: inline-block;
+	margin-top: 10px;
+}
+.pr-1 p{
+	color: #fff;
+	font-size: 16px;
+	padding: 8px;
+	display: inline-block;
+	margin-left: 80px;
+	margin: 10px;
+}
+.pr-1 h5{
+	color: #fff;
+	display: inline-block;
+	margin: 10px;
+}
+
+p .btn-primary{
+	background-color: #F7D100;
+	display: inline-block;
+	width: 150px;
+	height: 40px;
+	margin: 5px;
+	padding: 5px;
+	border-radius: 5px;
+	border: #F7D100 solid;
+}
+p a{
+	text-decoration: none;
+	color: #fff;
+	font-size: 16px;
+}
+p .btn-default{
+	background-color: #F68103;
+	display: inline-block;
+	width: 150px;
+	height: 40px;
+	margin: 5px;
+	padding: 5px;
+	border-radius: 5px;
+	border: #F68103 solid;
+	color: #fff;
+	font-size: 16px;
+}
+.navegador{
+	background-color: #FDB405;
+	overflow: hidden;
+	width: 97%;
+	margin-left: 17px;
+}
+.foto img {
+	width: 90%;
+	height: 40%;
+	margin: 20px;
+}
+.corto iframe{
+	width: 99%;
+	height: 250px;
+	margin-left: 3px;
+}
+.navegador2{
+	overflow: hidden;
+	width: 100%;
+	margin:0px auto;
+}
+.foto2 img {
+	width: 70%;
+	height: 70%;
+	margin: 20px;
+}
+footer{
+	background-color: #E6E3E3;
+}
+.text-gray h4{
+	margin-left:70px;
+	padding: 8px;
+	margin-top: 30px;
+	display: inline-block;
+}
+.izquierda h3 {
+	margin: 5px;
+	padding: 5px;
+	color: #DDDCDC;
+}
+.izquierda a{
+	text-decoration: none;
+	color: #F68103;
+	margin:5px;
+	padding: 5px;
+}
+.derecha p{
+	margin: 10px;
+	padding: 10px;
+	color: #D6D4D4;
+}
+.derecha a{
+	text-decoration: none;
+	color: #F68103;
+	margin:5px;
+	padding: 5px;
+}
+.derecha h3{
+	color: #D6D4D4;
+	margin: 5px;
+	padding: 5px;
+}
+.derecha h4{
+	margin-top: 15px;
+}
